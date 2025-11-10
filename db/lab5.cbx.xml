@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<LOG_ROOT>
-	<PROJECT NAME="lab5">
-		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lab5_part4:dice|LPM_COUNTER:delay1" CBX_FILE_NAME="cntr_eai.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lab5_part4:dice|LPM_COUNTER:delay2" CBX_FILE_NAME="cntr_fai.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lab5_part4:dice|LPM_COUNTER:delay3" CBX_FILE_NAME="cntr_gai.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lab5_part4:dice|LPM_COUNTER:delay4" CBX_FILE_NAME="cntr_hai.tdf"/>
-	</PROJECT>
-</LOG_ROOT>
