@@ -1,0 +1,761 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'button_p5'
+Slack : -1.042
+TNS   : -15.658
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : -0.062
+TNS   : -0.062
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : -0.058
+TNS   : -0.058
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : 0.024
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : 0.041
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : 0.081
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : 0.115
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : 0.170
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : 0.174
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'button_p5'
+Slack : -2.627
+TNS   : -40.811
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -0.550
+TNS   : -0.550
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -0.450
+TNS   : -0.450
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -0.394
+TNS   : -0.394
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -0.287
+TNS   : -0.287
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : 0.105
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : -2.135
+TNS   : -2.135
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : -2.011
+TNS   : -2.011
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : -1.908
+TNS   : -1.908
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : -1.577
+TNS   : -1.577
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : -1.373
+TNS   : -1.373
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : -1.338
+TNS   : -1.338
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : -1.306
+TNS   : -1.306
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : -0.972
+TNS   : -0.972
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -0.712
+TNS   : -0.712
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -0.495
+TNS   : -0.495
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -0.380
+TNS   : -0.380
+
+Type  : Slow 1200mV 85C Model Recovery 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -0.290
+TNS   : -0.290
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -1.582
+TNS   : -1.582
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -1.543
+TNS   : -1.543
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -1.379
+TNS   : -1.379
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -1.240
+TNS   : -1.240
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : 0.126
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : 0.283
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : 0.324
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : 0.352
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'button_p5'
+Slack : -3.000
+TNS   : -31.270
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Setup 'button_p5'
+Slack : -0.825
+TNS   : -12.230
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : -0.022
+TNS   : -0.022
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : -0.021
+TNS   : -0.021
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : 0.060
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : 0.074
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : 0.163
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : 0.221
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'button_p5'
+Slack : -2.445
+TNS   : -37.954
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -0.493
+TNS   : -0.493
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -0.417
+TNS   : -0.417
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -0.369
+TNS   : -0.369
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -0.260
+TNS   : -0.260
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : 0.023
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : 0.089
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : -1.854
+TNS   : -1.854
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : -1.745
+TNS   : -1.745
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : -1.653
+TNS   : -1.653
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : -1.340
+TNS   : -1.340
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : -1.135
+TNS   : -1.135
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : -1.100
+TNS   : -1.100
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : -1.069
+TNS   : -1.069
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : -0.781
+TNS   : -0.781
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -0.535
+TNS   : -0.535
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -0.347
+TNS   : -0.347
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -0.253
+TNS   : -0.253
+
+Type  : Slow 1200mV 0C Model Recovery 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -0.170
+TNS   : -0.170
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -1.451
+TNS   : -1.451
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -1.426
+TNS   : -1.426
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -1.279
+TNS   : -1.279
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -1.131
+TNS   : -1.131
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : 0.141
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : 0.274
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : 0.282
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : 0.307
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : 0.314
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : 0.316
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'button_p5'
+Slack : -3.000
+TNS   : -31.270
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Fast 1200mV 0C Model Setup 'button_p5'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : 0.273
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : 0.277
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : 0.307
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : 0.314
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'button_p5'
+Slack : -1.642
+TNS   : -28.504
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -0.211
+TNS   : -0.211
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -0.204
+TNS   : -0.204
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -0.141
+TNS   : -0.141
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -0.105
+TNS   : -0.105
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : 0.006
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : 0.042
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : 0.080
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : 0.082
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : -0.831
+TNS   : -0.831
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : -0.764
+TNS   : -0.764
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : -0.708
+TNS   : -0.708
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : -0.553
+TNS   : -0.553
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : -0.179
+TNS   : -0.179
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -0.176
+TNS   : -0.176
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : -0.157
+TNS   : -0.157
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : -0.140
+TNS   : -0.140
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -0.060
+TNS   : -0.060
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : 0.009
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : 0.054
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -0.729
+TNS   : -0.729
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -0.696
+TNS   : -0.696
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -0.619
+TNS   : -0.619
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -0.559
+TNS   : -0.559
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : 0.017
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : 0.103
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : 0.135
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'button_p5'
+Slack : -3.000
+TNS   : -27.923
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst7'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die1|mod_6_counter:MC_1|inst8'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst7'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die2|mod_6_counter:MC_1|inst8'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst7'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die3|mod_6_counter:MC_1|inst8'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst7'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lab5_part3:die4|mod_6_counter:MC_1|inst8'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay1|cntr_eai:auto_generated|counter_reg_bit[0]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay2|cntr_fai:auto_generated|counter_reg_bit[0]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay3|cntr_gai:auto_generated|counter_reg_bit[0]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lab5_part4:dice|lpm_counter:delay4|cntr_hai:auto_generated|counter_reg_bit[0]'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
