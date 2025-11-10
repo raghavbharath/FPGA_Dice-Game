@@ -1,0 +1,21 @@
+# Quartus / Intel FPGA build files
+db/
+incremental_db/
+output_files/
+*.rpt
+*.sof
+*.pof
+*.qws
+*.smsg
+
+# Simulation files
+*.vcd
+*.wlf
+*.asdb
+*.vho
+*.vstf
+
+# Temporary / backup
+*.bak
+*.tmp
+*.log
